@@ -19,5 +19,3 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiotto&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
 </div>
-
-![Snake animation](https://github.com/gabrielpiotto/gabrielpiotto/blob/output/github-contribution-grid-snake.svg)
