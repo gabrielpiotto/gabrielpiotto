@@ -1,5 +1,5 @@
 # Prazer, me chamo Gabriel Piotto 👋😄
-   - Tenho 23 anos, e estou iniciando no mundo da programação..
+   - Tenho 24 anos, e estou iniciando no mundo da programação..
    
    - Estou cursando ciência da computação na Universidade São Judas Tadeu, com previsão de conclusão para o segundo semestre de 2024.
 
